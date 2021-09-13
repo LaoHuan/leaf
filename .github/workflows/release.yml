@@ -5,6 +5,7 @@ on:
     tags:
       - v*
 
+
 jobs:
   build-bin-cross:
     runs-on: ubuntu-latest
